@@ -5,3 +5,4 @@ script.js doesn't contain: ["document.createElement", "button", "Remove", "remov
 script.js doesn't contain: ["addButton.addEventListener", "click"] / script.js doesn't contain: ["taskInput.addEventListener", "keypress", "Enter", "event.key"]
 script.js doesn't contain: ["loadTasks"]
 script.js doesn't contain: ["localStorage.getItem", "tasks"]
+script.js doesn't contain: ["JSON.parse", "JSON.stringify"]
