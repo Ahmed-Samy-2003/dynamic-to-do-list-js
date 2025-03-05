@@ -2,3 +2,4 @@ script.js doesn't contain: ["document.addEventListener", "DOMContentLoaded", "fu
 script.js doesn't contain: ["addButton", "add-task-btn", "taskInput", "task-input", "taskList", "task-list"]  
 script.js doesn't contain: ["addTask", "taskInput.value.trim()", "taskText", "alert"]
 script.js doesn't contain: ["document.createElement", "button", "Remove", "remove-btn", "classList.add", "appendChild"]
+script.js doesn't contain: ["addButton.addEventListener", "click"] / script.js doesn't contain: ["taskInput.addEventListener", "keypress", "Enter", "event.key"]
