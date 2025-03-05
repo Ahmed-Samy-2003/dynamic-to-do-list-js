@@ -6,3 +6,4 @@ script.js doesn't contain: ["addButton.addEventListener", "click"] / script.js d
 script.js doesn't contain: ["loadTasks"]
 script.js doesn't contain: ["localStorage.getItem", "tasks"]
 script.js doesn't contain: ["JSON.parse", "JSON.stringify"]
+script.js doesn't contain: ["localStorage.setItem"]
